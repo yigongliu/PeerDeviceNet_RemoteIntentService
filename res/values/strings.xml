@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteIntentServiceDemo (PeerDeviceNet)</string>
+    <string name="intent_action">Intent Action: </string>
+    <string name="intent_url">Enter data uri: </string>
+    <string name="pick_media">Or pick some media: </string>
+    <string name="button_send">Send the following intent to peer device</string>
+    <string name="button_pick">Pick data to send</string>
+    <string name="peer_name">Peer name:</string>
+    <string name="peer_addr">Peer address:</string>
+    <string name="peer_port">Peer port:</string>
+    <string name="status">Status:</string>
+    
+    <string-array name="intent_actions">
+        <item>ACTION_VIEW</item>
+        <item>ACTION_EDIT</item>
+        <item>ACTION_CALL</item>
+        <item>ACTION_DIAL</item>
+        </string-array>
+    <string-array name="mime_types">
+        <item>Image</item>
+        <item>Video</item>
+    </string-array>
+</resources>
